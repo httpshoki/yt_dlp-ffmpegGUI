@@ -51,7 +51,7 @@ Este projeto é uma aplicação GUI em Python que permite baixar vídeos do YouT
 
 ## Exemplo de Interface
 
-![Interface de usuário](interface.png)  *(Inclua uma captura de tela da sua interface aqui)*
+![Interface de usuário](interface.png)
 
 ## Contribuição
 
