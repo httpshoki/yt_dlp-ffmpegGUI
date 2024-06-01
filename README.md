@@ -1,4 +1,4 @@
-# Video Downloader and Converter
+# yt_dlp + ffmpeg GUI
 
 Este projeto é uma aplicação GUI em Python que permite baixar vídeos do YouTube e convertê-los para o formato MP4, mantendo o nome original do vídeo. A aplicação também exibe uma barra de progresso e a velocidade do download.
 
