@@ -23,8 +23,8 @@ Este projeto é uma aplicação GUI em Python que permite baixar vídeos do YouT
 
 1. **Clone o repositório**:
     ```sh
-    git clone https://github.com/seu-usuario/video-downloader-converter.git
-    cd video-downloader-converter
+    git clone https://github.com/httpshoki/yt_dlp-ffmpegGUIgit
+    cd yt_dlp-ffmpegGUI
     ```
 
 2. **Instale as dependências**:
@@ -38,7 +38,7 @@ Este projeto é uma aplicação GUI em Python que permite baixar vídeos do YouT
 
 1. Execute o script:
     ```sh
-    python video_downloader_converter.py
+    python yt_dlp-ffmpegGUI.py
     ```
 
 2. Digite a URL do vídeo que deseja baixar.
