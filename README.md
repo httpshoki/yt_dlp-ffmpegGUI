@@ -23,7 +23,7 @@ Este projeto é uma aplicação GUI em Python que permite baixar vídeos do YouT
 
 1. **Clone o repositório**:
     ```sh
-    git clone https://github.com/httpshoki/yt_dlp-ffmpegGUIgit
+    git clone https://github.com/httpshoki/yt_dlp-ffmpegGUI.git
     cd yt_dlp-ffmpegGUI
     ```
 
